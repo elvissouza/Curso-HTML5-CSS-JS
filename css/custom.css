@@ -53,9 +53,15 @@ html, body {height:100%;}
 .contato .mapa {min-height: 560px;}
 .contato .mapa iframe {width: 100%; min-height: 560px; border: none;}
 .contato .informacoes {background-image: url('../img/textura2.png'); min-height: 560px; padding: 30px;}
-
 .contato .formulario {min-height: 560px; padding: 30px;}
 
+/* DEPOIMENTOS */
+.depoimentos .titulo::after {border: #fff;}
+.depoimentos img {width: 100px;}
+.depoimentos h4 {font-size: 1.2rem; font-weight: 900;}
+
+/* RODAPE */
+.rodape {background-image: url('../img/bg-rodape.jpg'); background-repeat: no-repeat; background-size: cover; padding: 30px 0;}
 
 /* CUSTOM */
 nav.nav-extended .nav-wrapper {
