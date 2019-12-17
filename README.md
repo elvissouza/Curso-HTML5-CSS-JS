@@ -8,12 +8,12 @@ Demonstração do Projeto [Clique Aqui](https://elvissouza.github.io/Curso-HTML5
 ### Fotos do Projeto
 ---
 
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/1-PageIndex.png" width= "50%" height= "500px" align="right">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/2-PageSobre.png" width= "47%" height= "500px">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/3-PageServic.png" width= "50%" height= "500px" align="right">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/4-PageUnidad.png" width= "47%" height= "500px">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/5-PageContato.png" width= "50%" height= "500px" align="right">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/6-PageDepo.png" width= "47%" height= "500px">
+<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/2-PageSobre.png" width= "50%" height= "500px" align="right">
+<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/1-PageIndex.png" width= "47%" height= "500px">
+<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/4-PageUnidad.png" width= "50%" height= "500px" align="right">
+<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/3-PageServic.png" width= "47%" height= "500px">
+<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/6-PageDepo.png" width= "50%" height= "500px" align="right">
+<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/5-PageContato.png" width= "47%" height= "500px">
 
 ---
 
