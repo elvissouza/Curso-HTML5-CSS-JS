@@ -15,6 +15,8 @@ Demonstração do Projeto [Clique Aqui](https://elvissouza.github.io/Curso-HTML5
 <img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/6-PageDepo.png" width= "50%" height= "500px" align="right">
 <img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/5-PageContato.png" width= "47%" height= "500px">
 
+
+#### OBS: Imagem ficou meio distorcida mais quando clicar ela abre normalmente.
 ---
 
 - [x] Projetando a Interface (HTML e CSS)
