@@ -1,30 +1,18 @@
 # Entendendo sobre as funcionalidades de um website na prática.
-#### Projetando um Site de contrato com uma Academia de exemplo: BoaForma(Nome fictício para práticar)
+##### Projetando um Site de contrato com uma Academia de exemplo: BoaForma(Nome fictício para práticar)
+
+---
+**DEMO:** [Clique Aqui](https://elvissouza.github.io/Curso-HTML5-CSS-JS/)
+---
+<img src ="https://github.com/elvissouza/Curso-HTML5-CSS-JS/blob/master/img/CentroBoaF-Web.gif?raw=true" width= "47%" height= "auto">
+<img src ="https://github.com/elvissouza/Curso-HTML5-CSS-JS/blob/master/img/CentroBoaF-Mobile.gif?raw=true" width= "50%" height= "auto">
 
 ---
 
-Demonstração do Projeto [Clique Aqui](https://elvissouza.github.io/Curso-HTML5-CSS-JS/)
-
-### Fotos do Projeto
----
-
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/2-PageSobre.png" width= "50%" height= "500px" align="right">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/1-PageIndex.png" width= "47%" height= "500px">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/4-PageUnidad.png" width= "50%" height= "500px" align="right">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/3-PageServic.png" width= "47%" height= "500px">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/6-PageDepo.png" width= "50%" height= "500px" align="right">
-<img src ="https://raw.githubusercontent.com/elvissouza/Curso-HTML5-CSS-JS/master/assets/5-PageContato.png" width= "47%" height= "500px">
-
-
-#### OBS: Imagem ficou meio distorcida mais quando clicar ela abre normalmente.
----
-
-- [x] Projetando a Interface (HTML e CSS)
-- [x] Adicionando Responsividade (CSS)
-- [x] Colocando Animações e slides (JS)
-- [x] Curso Finalizado
+- [x] Designing the interface (HTML e CSS)
+- [x] Adding responsive (CSS)
+- [x] Putting animations, carousel and scripts (JS)
+- [x] Finished project
 
 ---
-
-### Credits
-https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw
+>**Course held in [Click here](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)**
